@@ -1,0 +1,7 @@
+C:\Users\Curtis\source\repos\CapstoneOnePigLatin\CapstoneOnePigLatin\bin\Debug\CapstoneOnePigLatin.exe.config
+C:\Users\Curtis\source\repos\CapstoneOnePigLatin\CapstoneOnePigLatin\bin\Debug\CapstoneOnePigLatin.exe
+C:\Users\Curtis\source\repos\CapstoneOnePigLatin\CapstoneOnePigLatin\bin\Debug\CapstoneOnePigLatin.pdb
+C:\Users\Curtis\source\repos\CapstoneOnePigLatin\CapstoneOnePigLatin\obj\Debug\CapstoneOnePigLatin.csprojAssemblyReference.cache
+C:\Users\Curtis\source\repos\CapstoneOnePigLatin\CapstoneOnePigLatin\obj\Debug\CapstoneOnePigLatin.csproj.CoreCompileInputs.cache
+C:\Users\Curtis\source\repos\CapstoneOnePigLatin\CapstoneOnePigLatin\obj\Debug\CapstoneOnePigLatin.exe
+C:\Users\Curtis\source\repos\CapstoneOnePigLatin\CapstoneOnePigLatin\obj\Debug\CapstoneOnePigLatin.pdb
